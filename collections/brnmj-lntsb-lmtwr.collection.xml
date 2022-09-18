@@ -1,0 +1,20 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Textbook" authors="fahad ALRSHADI">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11189</md:content-id>
+    <md:title>برنامج الانتساب المطور</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>ar</md:language>
+    <md:uuid>0222b40a-1ec0-4b99-9c9c-f08fc7e13512</md:uuid>
+<md:slug>brnmj-lntsb-lmtwr</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>التواصل</md:title>
+      <col:content>                  </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>الدورات التدريبية</md:title>
+      <col:content>                  </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
